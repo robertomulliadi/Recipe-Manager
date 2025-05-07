@@ -56,5 +56,4 @@ The application uses a normalized relational schema with 15+ entities, including
 
 ---
 
-## 📁 Project Structure
 
